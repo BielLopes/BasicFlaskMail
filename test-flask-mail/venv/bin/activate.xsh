@@ -25,7 +25,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/galoma/My-Github/test-flask-mail/venv"
+$VIRTUAL_ENV = r"/home/galoma/My-Github/BasicFlaskMail/test-flask-mail/venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

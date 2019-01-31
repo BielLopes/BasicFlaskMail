@@ -1,4 +1,4 @@
-#!/home/galoma/My-Github/test-flask-mail/venv/bin/python
+#!/home/galoma/My-Github/BasicFlaskMail/test-flask-mail/venv/bin/python
 
 import sys
 import getopt
